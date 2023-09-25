@@ -1,0 +1,86 @@
+.valentines-card-cont {
+	margin-top: 100px;
+	width: 100%;
+	text-align: center;
+}
+
+
+.valentines-card-img-cont {
+	width: 200px;
+	margin: 16px auto 16px auto;
+}
+
+.valentines-card-img-cont img {
+	width: 100%;
+	box-shadow: 0px 0px 40px #E0E0E0;
+}
+
+
+.valentines-card-buttons-cont {
+	width: 300px;
+	margin: auto;
+	display: flex;
+	margin-bottom: 40px;
+}
+
+.valentines-card-button-cont {
+	border: 2px solid #2F85EB;
+	width: 50%;
+}
+.valentines-card-button-cont:hover {
+	cursor: pointer;
+}
+
+.valentines-card-button-cont p {
+	font-family: sofia-pro, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+}
+
+#button-front {
+	background-color: #2F85EB;
+	border-radius: 12px 0px 0px 12px;
+	color: #212121;
+}
+
+#button-front p {
+	color: #FFFFFF;
+}
+
+#button-back {
+	background-color: #F7F7F7;
+	border-radius: 0px 12px 12px 0px;
+}
+
+#button-back p {
+	color: #2F85EB;
+}
+
+.valentines-message-cont {
+	width: 500px;
+	text-align: center;
+	margin: 40px auto 0 auto;
+	box-shadow: 0px 0px 40px #E0E0E0;
+}
+
+.valentines-message-cont:hover {
+	cursor: pointer;
+}
+
+.valentines-message-cont p {
+	padding: 8px;
+}
+
+.ar-image-cont {
+	display: none;
+	width: 400px;
+	margin: 16px auto 16px auto;
+}
+.ar-image-cont img {
+	width: 100%;
+}
+.print-cards-link {
+	margin: 40px;
+	text-align: center;
+}
